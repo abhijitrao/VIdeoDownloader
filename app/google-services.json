@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278752451093",
+    "firebase_url": "https://vediodownlaoder.firebaseio.com",
+    "project_id": "vediodownlaoder",
+    "storage_bucket": "vediodownlaoder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278752451093:android:903b541d49ccb4a85a0c1c",
+        "android_client_info": {
+          "package_name": "com.vedio.snaptubsoupratooz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278752451093-986v3lqvlgd2uaa6erdk3pv89e72aen3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BcXGBuLWd9yHa0ge0PWjSAaYe3Y2Voc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278752451093-986v3lqvlgd2uaa6erdk3pv89e72aen3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
